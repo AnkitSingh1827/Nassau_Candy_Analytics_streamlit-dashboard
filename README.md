@@ -192,4 +192,4 @@ The project uses:
 - ## 👩‍💻 Author
 
 *Ankit Singh*  
-[GitHub](https://github.com/AnkitSingh1827) | [LinkedIn](www.linkedin.com/in/ankit-singh257)
+[GitHub](https://github.com/AnkitSingh1827) | [LinkedIn](https://www.linkedin.com/in/ankit-singh257)
