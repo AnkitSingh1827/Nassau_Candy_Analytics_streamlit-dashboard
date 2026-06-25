@@ -188,3 +188,8 @@ The project uses:
 - Keep the CSV file in `data/Nassau Candy Distributor.csv`.
 - The app uses one shared utility module so every page follows the same cleaning and filtering logic.
 - On Windows, the real Python interpreter may be at `%LocalAppData%\Programs\Python\Python312\python.exe` if the PATH is not set yet.
+
+- ## 👩‍💻 Author
+
+*Ankit Singh*  
+[GitHub](https://github.com/AnkitSingh1827) | [LinkedIn](www.linkedin.com/in/ankit-singh257)
