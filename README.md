@@ -9,6 +9,9 @@ This project is a Streamlit dashboard for exploring the Nassau Candy Distributor
 
 The dashboard reads the CSV file in `data/Nassau Candy Distributor.csv`, cleans it, calculates business metrics, and shows the results across several pages.
 
+📍 *Live App*: 👉 [Check it out here](https://nassaucandyanalyticsapp-dashboard.streamlit.app/)
+
+
 ## What this project does
 
 The app is built for easy business analysis. It includes:
